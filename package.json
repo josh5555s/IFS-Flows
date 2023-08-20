@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "scripts": {
     "docs:source": "./source_markdown.py",
     "docs:dev": "vitepress dev",
