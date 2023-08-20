@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "docs:source": "./source_markdown.py",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
